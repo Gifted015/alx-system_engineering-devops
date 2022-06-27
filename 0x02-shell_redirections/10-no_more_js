@@ -1,2 +1,2 @@
 #!/bin/bash
-rm --preserve-root[=all] -R ./*.js
+rm --preserve-root -R ./*.js

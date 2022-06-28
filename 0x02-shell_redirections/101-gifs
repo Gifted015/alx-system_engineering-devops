@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -path './*.py' -printf "%f\n" | rev | cut -d '.' -f2- | rev | sort -f
+find . -type f -path './*.gif' -printf "%f\n" | rev | cut -d '.' -f2- | rev | sort -f
